@@ -2,3 +2,4 @@ lion
 tiger
 elephant
 panther
+cat
