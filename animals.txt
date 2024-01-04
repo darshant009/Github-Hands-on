@@ -1,4 +1,5 @@
 lion
 tiger
 elephant
-bison
+panther
+cat
